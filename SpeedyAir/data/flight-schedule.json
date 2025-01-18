@@ -1,11 +1,11 @@
 {
   "1": {
-    "day":  "1",
+    "day": "1",
     "destination": "YYZ",
     "origin": "YUL"
   },
   "2": {
-    "day": "",
+    "day": "1",
     "destination": "YYC",
     "origin": "YUL"
   },
@@ -26,6 +26,16 @@
   },
   "6": {
     "day": "2",
+    "destination": "YVR",
+    "origin": "YUL"
+  },
+  "7": {
+    "day": "3",
+    "destination": "YVR",
+    "origin": "YYC"
+  },
+  "8": {
+    "day": "3",
     "destination": "YVR",
     "origin": "YUL"
   }

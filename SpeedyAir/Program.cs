@@ -7,7 +7,7 @@
  * 
  * Assumptions:
  * - Valid, parsable JSON data is provided
- * - Orders have a default origin at YUL
+ * - All orders in the provided schedule are shipping from YUL
 */
 class Flight
 {
